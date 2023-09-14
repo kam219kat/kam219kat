@@ -86,10 +86,10 @@
 
 <h3 align="left">Tools :</h3>
     <div align="left">
-    <img alt="Git" src="https://img.shields.io/badge/Git-2300FB?style=for-the-badge&logo=git"/>
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/Git-432d2?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Docker" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img alt="Amazon" src ="https://img.shields.io/badge/AWS-%2307405e.svg?style=for-the-badge&logo=amazon&logoColor=white"/>
+    <img alt="Jira" src ="https://img.shields.io/badge/Jira-316192?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
 <div align="center"  width="100%">
