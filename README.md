@@ -40,6 +40,7 @@
         <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
         <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
         <img alt="NestJS" src="https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=white"/>
+        <img alt="Laravel" src="https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white"/>
     </div>
 <h3 align="left">🛠️ Libraries:</h3>
     <div align="left">
