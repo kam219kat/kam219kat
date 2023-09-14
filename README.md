@@ -65,7 +65,7 @@
 <h3 align="left">Tools :</h3>
     <div align="left">
     <img alt="Git" src="https://img.shields.io/badge/Git-432d2?style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="Docker" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img alt="Docker" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="Amazon" src ="https://img.shields.io/badge/AWS-%2307405e.svg?style=for-the-badge&logo=amazon&logoColor=white"/>
     <img alt="Jira" src ="https://img.shields.io/badge/Jira-316192?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
