@@ -1,17 +1,17 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, Software Engineer </a></h1>
 <br/>   
-    I am a full-stack engineer who has mastered the front-end technology and backend using Node.js and Golang. You can find me on Telegram, skype, phone, or on LinkedIn.
+    I am a full-stack engineer who has mastered the front-end and back-end technologies. You can find me on Telegram, skype, phone, or on LinkedIn.
 <br/>
  <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 ## About me
 <h4 align="left">
-    - 〆 Full-Stack🎯 and Blockchain  Developer 👨🏻‍💻 
+    - 〆 Full-Stack ( Front-End🎯 Heavy) Developer 👨🏻‍💻 
     <br>
     <br>
     - 〆 Bachelor's degree in Computer Science</a> 🎓
     <br>
     <br>
-    - 〆 Creating open-source web, and desktop apps 🛠️
+    - 〆 Creating open-source web, and mobile apps 🛠️
     <br>
     <br> 
     - 〆 Learning Never Stops 🚀
@@ -23,7 +23,7 @@
     - 〆 Looking to collaborate on **Open source contributions**
     <br>
     <br>
-    - 💬 Ask me about **react, vue, Solidity**
+    - 💬 Ask me about **JavaScript, PHP, Python, C++**
 </h4>
 
 <h3 align="left">🛠️ Web Tech Stack :</h3>
@@ -49,11 +49,10 @@
     </div>
 <h3 align="left">Languages :</h3>
     <div align="left">
-    <img alt="Solidity" src="https://img.shields.io/badge/solidity-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     </div>
 
 <h3 align="left">Databases :</h3>
