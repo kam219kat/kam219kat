@@ -35,8 +35,8 @@
     
 <h3 align="left">🛠️ Frameworks:</h3>
     <div align="left">
-        <img alt="Angular" src="https://img.shields.io/badge/angular-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-        <img alt="Vue" src="https://img.shields.io/badge/vue-%2343853D.svg?style=for-the-badge&logo=vue&logoColor=white"/>
+        <img alt="Angular" src="https://img.shields.io/badge/angular-%2343853D.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+        <img alt="Vue" src="https://img.shields.io/badge/vue-%2343853D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
         <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
         <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
         <img alt="NestJS" src="https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=white"/>
