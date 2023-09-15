@@ -71,6 +71,6 @@
 </div>
 
 <div align="center"  width="100%">
-    <h2 align="center"> Time is a created thing. To say "I don't have time," is like saying, "I don't want to". </a></h2>
-    <h2 align="center"> To implement is to act. </a></h2>
+    <h2 align="center"> Like a relentless clock, time marches forward, leaving behind the footprints of our journey through life. </a></h2>
+    <h2 align="center"> Time is the most valuable thing a man can spend. </a></h2>
 </div>
