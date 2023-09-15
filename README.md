@@ -1,6 +1,6 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, Software Engineer </a></h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello World! </a></h1>
 <br/>   
-    I am a full-stack engineer who has mastered the front-end and back-end technologies. You can find me on Telegram, skype, phone, or on LinkedIn.
+    Full stack developer with 7 years of experience in web and mobile app development. Managed 20+ projects, consistently delivering high quality results and achieving positive feedback.
 <br/>
  <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 ## About me
