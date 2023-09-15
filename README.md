@@ -71,6 +71,6 @@
 </div>
 
 <div align="center"  width="100%">
-    <h2 align="center"> Like a relentless clock, time marches forward, leaving behind the footprints of our journey through life. </a></h2>
+    <h2 align="center"> Like a relentless clock, time marches forward, leaving behind the footprints of our journey. </a></h2>
     <h2 align="center"> Time is the most valuable thing a man can spend. </a></h2>
 </div>
